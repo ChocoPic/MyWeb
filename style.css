@@ -2,10 +2,10 @@
     color: rgb(109, 169, 219);
 }
 .saw{
-    color:white;
+    color:grey;
 }
 a {
-    color:gray;
+    color: grey;
     text-decoration: none;
 }
 h1{
@@ -20,9 +20,9 @@ h1{
     grid-template-columns: 100px 1fr;
 }
 #grid ol{
-    background-color:rgb(68, 68, 68);
     width: 100px;
     padding: 20px;
+    border-right: gray solid 3px;
 }
 #article{
     padding-left: 60px;
