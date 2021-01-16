@@ -38,3 +38,6 @@ h1{
         border-right: none;
     }
 }
+.search-bar {
+    width: 500px;
+}
