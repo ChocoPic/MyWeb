@@ -41,3 +41,11 @@ h1{
 .search-bar {
     width: 500px;
 }
+div{
+    padding-left: 20px;
+    padding-right: 20px;
+    padding-bottom: 20px;
+}
+li{
+    list-style: none;
+}
